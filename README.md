@@ -4,6 +4,8 @@ The purpose of this tool is to expose new redundant translations made since the 
 
 Gengo translations are in /dictionaries.
 
+Only works with de, es, fr, & it translations.
+
 ### How to use it
 1. Put schema JSON files in /locales
 2. Make sure Python is installed
